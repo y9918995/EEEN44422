@@ -1,5 +1,5 @@
 # 1	Week 1
-## 1.1	Definition of smart grid and its main features, automated transcript 
+## 1.1	Definition of smart grid and its main features 
 Hi, I'm Alessandra Parisian.  
  
 And this is the first video of Section 1 in this video.  
@@ -42,7 +42,7 @@ Us and the consumer involvement consumers need to understand what benefits they 
 We do not know the best way to make this happen yet, but we do know the highly negative impact of take back and consumer backlash on future deployment plans.  
 Thank you and see you at next video.
 
-## 1.2	Drivers for smart grids, automated transcript 
+## 1.2	Drivers for smart grids 
 Hi, I'm Alessandra Parisian.  
 And this is the second video of Section 1.  
 In this video.  
@@ -961,59 +961,173 @@ New Market structures might be required to ensure that enough flexibility will b
 Markets rewarding up and down ramp products are under development for instance in California where the penetration of solar generation is increasing.  
 flexible ramping will be reserved in 1 period to meet possible ramps in future periods and will be dispatched on an economic basis when needed Thank you.Demand-side management failed
 
+## 3.5	Impact of demand-side management
+Hi, I'm Alexandra parisio and welcome to the seventh video of Section 3.  
+In this video, I will illustrate the potential benefits to the smart grid of the month of side flexibility.  
+We will look at energy Market power system operation and planning aspect.  
+Here there is a typical supply curve in red in elastic demand curve in green assume that there is a sudden man might not but not substantial increase in the demand curve for instance due to a much colder temperature than what the system operator predicted and scheduled the generation based on so people required much electricity for much more electricity for heating purposes.  
+The supply curve is not linear.  
+The demand line is inelastic and that entails that a small increase in the man corresponds to a large increase in price.  
+Now consider the case of reduced supply for example, because it generates a generator goes offline or the forecast renewable generation is larger than the actual 1 this also corresponds to a considerable increase in the market price also because the demand is inelastic does not respond to changes in prices.  
+A more elastic demand would mitigate this very high prices the demand could become more elastic and move from being almost vertical to having a certain Loop and an elastic demand can adapt its low to the supply and keep prices at acceptable levels remind that the market price is always the clearing price given by the intersection between supply and demand curves this figure shows this the demand moves from yellow the yellow 1 to the purple 1 in order to reduce the price.  
+This can be achieved by shedding some loads reducing some consumption and so on the benefit of having reduced prices is mainly to Consumers the generators might be paid less.  
+Not much demand response is required in order to achieve this Contracting a few large industrial consumers might be enough.  
+Clearly also consumers might be exposed to time varying electricity prices.  
+This is what is called Dynamic pricing.  
+Now we will see how the months and management can support system security system operation and planning consider this this simple 2 buses system emergency rating is the maximum allowed load current under emergency operation in this case 10% higher than the rated value is allowed under emergency operation.  
+If 1 line goes offline 220 megawatts can be transferred from A to B for 20 minutes in order to supply the demand if the load is at B is 220 megawatt.  
+And the generator at B can increase its output to 220 megawatts within 20 minutes the load can buy 220 megawatts from the cheaper generation at a for 20 minutes and then use the more expensive generator at B.  
+An alternative corrective action is to reduce the load by 20 megawatts for 20 minutes.  
+Both are forms of ancillary services that can support system operation both can be automatic depending on the available technology at the low side the thread of between the cost-saving and loss of comfort must be assessed Case by case.  
+The months and measures can actually support the short-term security and provide reserved for balancing demand and generation.  
+Instead of having synchronized plans Running part loaded, which is spinning Reserve those plans can be used as form of standing Reserve while disconnecting some loads.  
+If there is a problem this provides a way to reduce spinning Reserve, which we have seen can help integration of renewable generation electric storage is another example if there is another generation for instance if the storage being charged it might stop charging or is stored energy is available.  
+The storage system can act as generator and provide power to the power system.  
+Flexible demand can also support generational Degrassi and planning and increase the capacity credit of renewable generation.  
+In fact, instead of installing more and more generation.  
+The system operator can plan appropriate demands and management measures.  
+How much demand side flexibility is required and how to use it is still an open question in addition that also depends on how frequently and for how long the grid operator expects to need the month side measures.  
+In this figure it is shown that free the frequency of shortage level expected in terms of occurrences every 5 years, uh, for instance, we can expect to lose 1,000 megawatt of the month for just 2.5 times in 5 years.  
+The principle would be that if interruptions do not last so long and do not occur often.  
+Then the more response would be able to contribute to the system planning.  
+This is particularly relevant to loads connected to electrification of heating and transport since these loads can be quite flexible.  
+They can be disconnected at peak times because there is electric or thermal storage Associated to them think of electrical vehicles and heat pumps.  
+These figures illustrate the volume of short-term operating Reserve tender and accepted for each season the most dominant technology type across both Tendered and accepted volumes is open cycle gas turbines.  
+Instead of reducing demand there are occasions.  
+When due to the excess generation from wind and solar the system operator will pay for demand increases.  
+This can be achieved through the reduction of any um, any on-site generation or by increasing power consumption particularly on processes including heating cooling and pumping the demand increase should be achieved through shifting demand not wasting of energy the service provides an additional option for managing the electricity system at times of high renewable output and low National demand in 2017.  
+Tenders were received and volume accepted from good response energy users capable of shifting their processes and energy consumption to overnight or week, uh weekend day time and generation such as parties with um, CHP units that That could reduce output and increase net demand met by the grid not tenders were received from owners of storage assets.  
+Perhaps due to the short-term nature of the M NAB contracts.  
+We have seen the demand side flexibility can offer numerous potential benefits to power system, but there are a number of obstacles.  
+For instance adequate Market structures and time varying pricing are needed which recognize market demand side flexibility and make it competitive with respect to traditional flexibility provided by conventional generators communication infrastructure icts.  
+Smart meters are essential in order to implement.  
+The market responds in addition consumers have to accept it and its potential discomfort.  
+It is not clear how to assess demand side benefits since the techniques and tools that we have now are very much dominated by conventional generation and are not suitable to address the value of demand side flexibility.  
+Thank you.
 
+## 3.6	Residential flexible loads
+Hi, I'm Alexandra parisio and welcome to the eighth video of Section 3 in this video.  
+I will Define residential flexible loads and provide the possible categorization.  
+Energy Efficiency gains and Peak demand reduction can be accelerated with an optimized schedule of appliances and local storage facilities.  
+Smart appliances, for example the mar response enabled wide Goods heating ventilation air conditioning units and battery storage systems can support the month side flexibility because they can be set up to respond to signals such as a price information for example received from smart meters or Direct Control signals.  
+There are different categories of flexible loads here.  
+There is just an example The variable load might be classified into not flexible loads such as washing machine, which has a predefined profile that cannot be altered during operation time flexible load such as electrical Vehicles cartable load may be classified into partial liquor load such as air conditioning whose power consumption can be controlled according to its temperature set point and fully curtail board according to the consumer priorities.  
+Meaning that these appliances can be switched off without the need of return them on later for example light bulbs.  
+Current markets for flexible demand includes frequency response and short-term Reserve potential future markets can include the capacity Market of serve and services supporting distribution networks appliances that can operate in the patently for uh from consumers such as fridges and washing machines can be more flexible without loss of utility to the consumer.  
+Other appliances such as televisions and lighting are less flexible as they are required to be on when the consumer engages with their function electric space and water heating and cool.  
+The plants is have thermal storage properties, which allow lot bigger tail reduced or Pond spawned this figure projects annual household electricity consumption from 2012 to 2030 annual domestic electricity consumption is projected to increase to 124.6 Tera hours in 2013 accounting for 30% of green Britain's total electricity demand in 2013.  
+The projected annual load indicates the total electrical energy consumed by the domestic sector per year in Great Britain increases in the amount of space Heating and water.  
+Water heating due to the greater penetration of heat pumps and wet plants is demand due to the changes in Appliance usage rates are partially offset by reductions in the cold Appliance demand due to the improved Appliance efficiency.  
+In this table examples of the types of services the residential flexible loads can provide our uh depicted we can see that electric space and water heating is the most suitable to provide Fast Response services.  
+Advanced home management systems are to be designed, uh, in order to optimally schedule and manage residential flexible loads the optimal profile of a plant is and controllable loads must be computed in particular.  
+It has to be decided when to run the appliances and how much power to assign the implementation of demand side management measures requires ICT Technologies.  
+The algorithm to schedule a planes is part of the home energy management system.  
+In this slide an example of an optimization problem for appliance optimal scheduling is presented.  
+You can see that the objective can be a trade-off between the emission and costs and all Technical and operational constraints of the appliances as well.  
+As of the onsite generation and storage facilities are to be included in the algorithm consumers preferences are also considered In this slide simulation results are shown for 3 households with 3 applies washing machines dryers and dishwashers 2 scenarios are compared 1 width and 1 without 1 Photo voltage generator and 1 battery storage system available in the households.  
+The technical constraints and characteristics of the onsign facilities are realistic and based on historical data from real households in particular all the durations energy faces power and energy requirements of the appliances are the ones of real appliances in the figure on the left side.  
+We can see that the solar generator and the storage system allow appliances to be better distributed over the day.  
+The shifting of the appliances results in a clear Peak shaving as shown in the figure of the left side.  
+The green line the peaks in the afternoon are reduced to slightly more than 2 kilowatts.  
+To recap we can conclude that flexible demand in residential sector can also contribute to more flexible power system.  
+And the rest is the end that residential consumers will play an important role in the smart grid.  
+Thank you.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 3.7	Sankey Diagrams
+Hi, I'm Alexandra parisio.  
+And in this video.  
+I'm going to illustrate you how to use sank diagram, uh and efficiencies, uh and emission factors to assess the performance of different production plants in terms of Energy savings and emission reduction.  
+Let's start with energy saving.  
+So we compared to simple system systems 1 is the cogeneration and the other 1.  
+We call separate production.  
+I will explain you why so the cogeneration or combined heat and power plants.  
+Um, we have uh 2 1 input is which is fuel or natural gas.  
+For example, and we have 2 outputs 1 is the electricity and 1 is the heat thermal power.  
+uh thermal energy and then for the third the the thermal output, uh, we have 40% of efficiency while for the electricity output.  
+We have 30% of uh, efficiency.  
+Um, so for this, uh for this specific system, we have 1 input and 2 outputs the rest all the remaining is losses.  
+So we can we consider that we have 100 units of fuel.  
+and then this will correspond to 30 units of electricity.  
+Because we have 30% of uh efficiency for the electricity output.  
+And then we have 40 units of heat.  
+because the assistance is for heat for the heat output is 40% and then what is left is 30 units and we have 30 units of losses.  
+So that's it the Sankey diagram for the co-generation production for the combined heat and power plant.  
+Now, let's see what happens if you have separate Productions.  
+So if you have 2 separate plants for producing electricity and heat.  
+So in this example, we have a production plan, uh comprising 2 different plants 1 is the conventional thermal power plant, uh, which produces which generates electricity.  
+With a 55% overseas.  
+And then we have a boiler to produce uh heat thermal a thermal output, um with a 90% of efficiency.  
+then in order to compare the 2 different, uh production systems, we have to consider the same output for electricity and heat so We in the separate production system.  
+We use uh, the thermal power plant to produce electricity.  
+Then to compare we consider 30 units of electricity also for these different separate production system.  
+So we have 30 units of electricity.  
+Now since we have 55% of efficiency this in order to produce to generate this 30 units of electricity.  
+We have we need to have 30 divided by 0.55 units of fuel Which could be call for example? And um, so we have 54.5 units of fuel here.  
+And what is left is 24.5 losses units of losses.  
+Remember that you have always lost this when you convert energy from a 1 4 to another.  
+Okay, so we have completed the uh sanki diagram for the um thermal power plant now, let's move to the Heat.  
+As output, uh to consider so in the code generation system, we had 40 units of heat.  
+So we went to we want to compare the cogeneration system with the separate production system.  
+So we have to consider the same amount of heat output.  
+So in the separate production system, we have the boiler to produce we use the boiler to produce heat.  
+So we consider the same amount of the same amount of heat.  
+So we have 40 units of heat.  
+Generated by the boiler.  
+With a 90% efficiency which correspond to uh, an amount of units of fuel used to produce this 40 units of heat.  
+Of 44.4.  
+44.4 and which means that uh, we have 4.4 units of uh losses.  
+Of course, we have very high efficiency for the the boiler.  
+Okay, so Um, we just sum up the these 2 figures representing the units of fuel, um used in the separate production system to generate the same amount of outputs, which means 30 units of electricity and 40 units of heat.  
+so if we sum up these 2 N, uh, these 2 figures we uh, we have 98 uh 9 unit of fuel which are needed in the separate production plant to generate the same amount of output.  
+So the now the the numbers the figures we want to focus on, uh, in order to uh, assess evaluate the primary Energy savings.  
+Um that we can uh have by using a code generation system.  
+are 100 and 908.9 um, because because why uh, because 100 units of fuel of fuel remember this the primary energy it's fuel which could be gas natural gas in this case natural gas in this case as well.  
+And here we can have call for example or gas as well.  
+So it's fuel.  
+What do you burn in order to produce what you are interested in? Um, so in the code generation system, we use 100 units of fuel to generate 30 units of electricity and 40 units of heat in the separate production system.  
+We need 98.9 units of fuel in order to generate the same amount of electricity and heat in order to compare these 2 system.  
+we can Um, we can then, uh compute the primary energy saving in this way.  
+We have uh, 98.9 which is the unit, uh units of fuel, uh, use in the separate production, uh system in order to generate the same amount the the uh, this amount of output so 30 units of electricity and 40 units of heat.  
+minus 100 100 100 because in order to produce the same amounts of outputs, uh, you need 1 100 units of fuel in the code generation system divided by 98.9 because we are comparing the code generation system with the separate production system.  
+This is equal to minus 1.1.  
+Which means that? using this code generation system Does not lead to any primary Energy savings actually the separate production plan you uses less energy in terms of units of fuel.  
+Uh than the code generation system.  
+But let's see what happens with the emissions.  
+We now want to uh evaluate to assess the 2 different systems the code generation system and the separate production system, uh, in terms of emissions, uh emissions.  
+Um, so we need to know not deficiencies, but the emission factors Um for the code generation system, we have an emission factor of 200 grams of CO2 emitted.  
+upper unit of fuel burnt So which means here for example if I want to know the amount of CO2 emitted? To generate this 40 units of heat and 30 units of electricity have to multiply 200.  
+uh by 100 so here my f which is the fuel? Is 100.  
+For the separate production system.  
+We have the thermal power plant and the boiler for the thermal power plant.  
+I have an emission factor of 636 G of CO2 emitted.  
+Per units of electricity generated.  
+So in this case, I I have to consider the output the electricity generated.  
+Uh, so my E is in this case 30 30 units.  
+um as to the boiler I have 40 units of heat generated Emma.  
+And my emission factor is 260 g of CO2 generated per units per unit of heat, uh generated.  
+Uh, so my 8 here is 40.  
+When I want to compute the emission reduction in terms of CO2 emitted.  
+I have to use this formula.  
+So I have to consider the emission Factor, uh of the co-generation plant, which is the amount of grams of CO2 emitted per fuel units of fuel burnt.  
+So I have to multiply this emission Factor, uh by the amount of units, uh of fuel burnt and then I have to divide this by the amount of grams of CO2 emitted.  
+Uh in the separate production system when I want to generate the same amount of outputs, which are 30 units of electricity and 40 units of heat.  
+so I multiply here the emission Factor.  
+of the thermal power plant by the units of electricity generated because my emission Factor tells me the amount of grounds of CO2 emitted per unit of electricity generated and then I have to sum this.  
+Um up to the uh amount of CO2 generated, uh emitted, uh, when I want to produce certain amount of heat by using the boiler for the boiler.  
+I have the emission factor of the boiler which tells me the amount of grams of CO2 emitted per unit of heat generated.  
+um, and then I have to multiply this by the um units the amount of units of heat generated which in this case is 40 so let's just replace these symbols with figures.  
+and then We have 1 minus so for the code generation, uh system we have the emission factor, which is 200.  
+times F which is 100 and then this is the amount of CO2, uh generated in the cogeneration system.  
+and then uh for the separate production system, we have the emission factor of the thermal power plant, which is 636 Times the units of electricity generated which is 30.  
+This e is 30.  
+Plus the emission factor of the boiler which is uh 20060.  
+Times the units of heat generated, which is 40.  
+And now let's multiply by 100 in order to compute the percentage.  
+Which is easier.  
+to read and we have 32.  
+60% of emission reduction this means that the code generation system.  
+um emit less CO2 So we have 302.16% of emission reduction.  
+If we use the code generation system to produce this amount of heat and this amount of heat instead of using the separate production system.  
+So we have seen that because of the different efficiencies and emission factors.  
+By using the code generation system, we can we cannot save primary energy, but we can reduce the CO2 emitted.  
+Thank you.
